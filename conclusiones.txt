@@ -1,0 +1,11 @@
+1.- Karate permite escribir pruebas de forma muy legible y cercana al lenguaje natural, 
+lo que facilita la comprensión y el mantenimiento de los tests.
+
+2.- Las pruebas realizadas han confirmado que la API funciona de acuerdo a lo especificado 
+en la documentación. Sin embargo, existen oportunidades para mejorar la cobertura de las 
+pruebas y realizar pruebas más exhaustivas, especialmente en términos de rendimiento y seguridad.
+
+3.- La automatizacion de pruebas de APIs ayuda a aumentar la eficiencia de los tests, 
+ya que de forma automatica un software puede probar algunos servicios de manera rapida y efectiva
+
+
