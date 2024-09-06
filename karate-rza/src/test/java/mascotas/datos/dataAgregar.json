@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "category": {
+    "id": 777,
+    "name": "reptile"
+  },
+  "name": "Lacoste",
+  "photoUrls": [
+    "https://definicion.de/lagarto/"
+  ],
+  "tags": [
+    {
+      "id": 777,
+      "name": "Reptil Feliz"
+    }
+  ],
+  "status": "available"
+}
